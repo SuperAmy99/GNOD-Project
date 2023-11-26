@@ -10,7 +10,7 @@ The primary goal is to develop a song recommendation model, beginning with the e
 
 ### 1. Web Scraping: Create a list of top_200_songs and make a simple recommender
 
-- Utilized web scraping to compile a list of the top 200 songs from popular charts such as [Popvortex](www.popvortex.com) and [Billboard](https://www.billboard.com/charts/hot-100/).
+- Utilized web scraping to compile a list of the top 200 songs from popular charts such as [Popvortex](www.popvortex.com](https://www.popvortex.com/music/charts/top-100-songs.php) and [Billboard](https://www.billboard.com/charts/hot-100/).
 
 - Implemented a straightforward recommender system based on the hypothesis that users are likely to enjoy recommendations of currently popular songs. If the input song is among the top 200 in the playlist, the recommender suggests a random song from the same playlist.
 
@@ -43,8 +43,6 @@ The primary goal is to develop a song recommendation model, beginning with the e
 <img width="1205" alt="image" src="https://github.com/SuperAmy99/GNOD-Project/assets/124481767/f31ff218-2d43-4f9a-bf90-54179d57e29a">
 
 <img width="1035" alt="image" src="https://github.com/SuperAmy99/GNOD-Project/assets/124481767/357e5764-c688-472d-80bc-a06463267ad8">
-
-
 
 
 This streamlined pipeline ensures dynamic song recommendations based on whether the user's song is currently popular or belongs to a specific audio feature cluster.
