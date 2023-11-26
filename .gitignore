@@ -5,3 +5,5 @@
 *.zip
 
 ignore_data
+
+.ipynb_checkpoints
