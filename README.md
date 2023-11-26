@@ -10,7 +10,7 @@ The primary goal is to develop a song recommendation model, beginning with the e
 
 ### 1. Web Scraping: Create a list of top_200_songs and make a simple recommender
 
-- Utilized web scraping to compile a list of the top 200 songs from popular charts such as [Popvortex](www.popvortex.com](https://www.popvortex.com/music/charts/top-100-songs.php) and [Billboard](https://www.billboard.com/charts/hot-100/).
+- Utilized web scraping to compile a list of the top 200 songs from popular charts such as [Popvortex](https://www.popvortex.com/music/charts/top-100-songs.php) and [Billboard](https://www.billboard.com/charts/hot-100/).
 
 - Implemented a straightforward recommender system based on the hypothesis that users are likely to enjoy recommendations of currently popular songs. If the input song is among the top 200 in the playlist, the recommender suggests a random song from the same playlist.
 
