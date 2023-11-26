@@ -16,9 +16,9 @@ The primary goal is to develop a song recommendation model, beginning with the e
 
 - The approach capitalizes on the assumption that songs currently on the top charts reflect user preferences, providing a simple yet effective way to offer relevant song recommendations.
   
-### 2. API wrappers: Create a spotify playlist with appx 12,000 songs
+### 2. API wrappers: Create a spotify playlist with appx 25,000 songs
 
-- Leveraged the Spotify Web API to extract song titles, artist information, and detailed audio features for approximately 12,000 songs.
+- Leveraged the Spotify Web API to extract song titles, artist information, and detailed audio features for approximately 25,000 songs.
 
 - This data extraction serves as the groundwork for thorough analysis and the development of a robust song recommendation model.
   
