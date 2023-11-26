@@ -30,9 +30,9 @@ The primary goal is to develop a song recommendation model, beginning with the e
 
 ### 4. Song recommender: 
 
-- Verify if the user-entered song is in the PopVortex Hot 100.
-  If yes, recommend another Hot 100 song.
-  If the user-entered song is not in the Hot 100:
+- Verify if the user-entered song is in the Hot 200.
+  If yes, recommend another Hot 200 song.
+  If the user-entered song is not in the Hot 200:
 
 - Utilize the Spotify API to fetch the audio features of the input song.
   - Apply the clustering model to the Spotify audio features, obtaining a cluster number.
